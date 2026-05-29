@@ -57,7 +57,7 @@ Movie-Recommendation-system/
 Clone the repository and move into the project folder:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/harsh31415926/Movie-Recommendation-System.git>
 cd Movie-Recommendation-system
 ```
 
